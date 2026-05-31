@@ -53,7 +53,7 @@ class FoodOrderAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 
-![alt text](<../Screenshot 2026-05-31 212713.png>)
+![Output](Screenshot%202026-05-31%20212713.png)
 
 
 # RESULT
